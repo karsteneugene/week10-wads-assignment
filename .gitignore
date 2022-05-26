@@ -1,0 +1,4 @@
+React/node_modules/
+Django/env_classpractice/
+Django/db.sqlite3
+.DS_Store
